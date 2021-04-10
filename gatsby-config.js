@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Furkan's Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Furkan Başaran.`,
+      summary: `#developer #entrepreneur #filmmaker #gamer`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Personal blog of Furkan Başaran.`,
+    siteUrl: `https://furkanbasaran.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `frknbasaran`,
+      github: `frknbasaran`
     },
   },
   plugins: [
