@@ -50,7 +50,7 @@ Your project folder structure probably looks like above.
 
 **Step 4: Starting implementation**
 
-As first, add vue-wizard-steps package as dependency into view, and register it as component.
+As first, clear the content of App.vue file and create step-by-step, add vue-wizard-steps package as dependency into view, and register it as component.
 
 ```javascript
 <script>
