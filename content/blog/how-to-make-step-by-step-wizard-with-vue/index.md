@@ -4,7 +4,7 @@ date: "2021-05-29T17:41:00.000Z"
 description: We're familiar to step-by-step user interfaces from various modern web applications in these days. In this article I'll tell to you how you can implement step by step wizard structure to your web apps easily with vue-wizard-steps package.
 ---
 
-In this article I'll tell to you how you can implement step by step wizard structure to your web apps easily with **vue-wizard-steps** package. We're familiar to step-by-step user interfaces from various modern web applications in these days. 
+I'll tell to you how you can implement step by step wizard structure to your web apps easily with **vue-wizard-steps** package in this article . We're familiar to step-by-step user interfaces from various modern web applications in these days. 
 
 ### **Let's start!**
 
@@ -16,7 +16,7 @@ As you can see we'll have a progress bar that contain three different steps and 
 
 ### **Time to code!**
 
-In this article, I'll use to **vue-cli** for creating clean vue application, of course you can select any other way for creating your project or use this package in your existing projects.
+I'll use to **vue-cli** for creating clean vue application in this article but of course you can select any other way for creating your project or use this package in your existing projects.
 
 **Step 1: Install Vue Cli**
 
